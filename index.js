@@ -1,4 +1,5 @@
 //Reset Button
+//hello world
 document.addEventListener('DOMContentLoaded', function () {
     document.getElementById("reset").addEventListener("click", function () {
         resetBoard();
