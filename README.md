@@ -1,2 +1,2 @@
 # Chess
-Website that runs Chess
+Chess website
