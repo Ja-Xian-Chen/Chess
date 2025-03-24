@@ -1,1 +1,1 @@
-@media only screen and (orientation: portrait) { /* This is for working modal screens on iphone 13 */ .modal { width: 100% !important; max-width: 100%; max-height: 100%; } } /* Here you add custom font-size for that paragraph */ .modal p { font-size: 20px; }
+@media only screen and (orientation: portrait) { /* This is for working modal screens on iphone 13 */ .modal { width: 100% !important; max-width: 100%; max-height: 100%; } } /* Here you add custom font-size for that paragraph */ .modal p { font-size: 70px; }
